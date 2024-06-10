@@ -3,9 +3,13 @@ I've just completed a fascinating journey into the world of machine learning wit
 🔍 Project Highlights:
 
 Tools Used: Python, Pandas, NumPy, and Scikit-learn
+
 Dataset: Delaney solubility dataset
+
 Goal: To build a predictive model that helps determine the solubility of molecules, aiding in research and development processes in chemistry and biology.
+
 🔧 Technical Details:
+
 
 Data Preprocessing: Cleaned and prepared the dataset for analysis.
 Feature Engineering: Created relevant features to improve the model's performance.
